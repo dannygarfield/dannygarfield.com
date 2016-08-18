@@ -13,11 +13,12 @@ body {
 }
 
 p, h1, h2, h3 {
-    color:#404246;
+    color:#505256;
+    text-align:center;
 }
 
-.image {
-    max-width:100%;
-    height:auto;
-    margin:100px auto;
+.button {
+    background-color:#66699;
+    padding: 14px 28px;
+    color:#ffffff;
 }
