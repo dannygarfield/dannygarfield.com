@@ -4,20 +4,20 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+}
+
+body {
+    font-family:'Crimson Text',sans-serif;
+    padding: 40px 20px;
     display: block;
+}
+
+p, h1, h2, h3 {
+    color:#404246;
 }
 
 .image {
     max-width:100%;
     height:auto;
     margin:100px auto;
-}
-
-body {
-    font-family:'Crimson Text',sans-serif;
-    padding: 40px 20px;
-}
-
-p, h1, h2, h3 {
-    color:#404246;
 }
