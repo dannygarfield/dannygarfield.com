@@ -18,7 +18,9 @@ p, h1, h2, h3 {
 }
 
 .button {
-    background-color:#66699;
+    background-color:#666cc;
     padding: 14px 28px;
     color:#ffffff;
+    max-width:600px;
+    border-radius:2px;
 }
