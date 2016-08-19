@@ -36,6 +36,7 @@ h1 {
 
 p a {
 	text-decoration:underline;
+	color:#009999;
 	transition: opacity .7s;
 }
 
@@ -69,7 +70,7 @@ a {
 
 .nav p a:hover {
 	border-bottom: 1px solid #555;
-	opacity:1;
+	opacity:1; !important
 }
 
 .right {
