@@ -1,7 +1,7 @@
 /* GLOBAL */
 
 * {
-	-webkit-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
@@ -26,11 +26,6 @@ body {
 
 p, h1, h2 {
 	color:#555;
-}
-
-p a {
-	color:#009999;
-	text-decoration:underline;
 }
 
 h1 {
@@ -74,6 +69,7 @@ a {
 
 .nav p a:hover {
 	border-bottom: 1px solid #555;
+	color:inherit;
 }
 
 .right {
