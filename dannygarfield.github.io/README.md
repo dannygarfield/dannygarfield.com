@@ -1,2 +1,0 @@
-# dannygarfield.com
-dannygarfield.com
