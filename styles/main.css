@@ -69,7 +69,7 @@ a {
 
 .nav p a:hover {
 	border-bottom: 1px solid #555;
-	color:inherit;
+	opacity:1;
 }
 
 .right {
